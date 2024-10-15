@@ -14,9 +14,11 @@ pipeline {
                  stage('Three') {
                 
                  steps {
-                       echo "Hello 3"
+                       echo "This is my new updatee...."
                  }
+
                 
+                 }
               }
          }
 }
